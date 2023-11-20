@@ -1,0 +1,32 @@
+{
+    "//": "Correspondence between vdd impl and virtual impl devices",
+    
+    "//": "Robot relative devices",
+    "VRCScaraVddImpl": "VirtualRobotImpl",
+    "A2GantryVddImpl": "VirtualRobotImpl",
+    "AMBUGantryVddImpl": "VirtualRobotImpl",
+    "DeltaScaraImpl": "X",
+    
+    "//": "Camera relative devices",
+    "CameraVddImpl": "VirtualCameraImpl",
+    "FlirCamera": "X",
+
+    "//": "Suction relative devices",
+    "SuctionToolVddImpl": "VirtualSuctionToolImpl",
+    "RealSuctionTool": "X",
+
+    "//": "Motor relative devices",
+    "LinearMotorVddImpl": "VirtualLinearMotorImpl",    
+
+    "//": "Feeder relative devices",
+    "FeederVddImpl": "VirtualFeederImpl",
+
+    "//": "IODevice relative devices",
+    "RemoteIOVddImpl": "VirtualRemoteIOImpl",
+
+    "//": "Gripper relative devices",
+    "CylinderGripperVddImpl": "VirtualCylinderGripperImpl",
+
+    "//": "3D Camera relative devices",
+    "StereoCameraVddImpl": "VirtualStereoCameraImpl"
+}

@@ -1,0 +1,14 @@
+{
+    "//": "Choose to connect virtual(CameraVddImpl) or real(FlirCamera) devices",
+    "controllerType": "CameraVddImpl",
+
+    "cameraUpdateTimeStep": 32,
+
+    "deviceName": "{978C4102-3707-4A1A-BD0C-C35256C7D54E}##Camera_Device",
+
+    "SN": "22038012",
+
+    "Exposure": 11000,
+
+    "Gain": 11
+}

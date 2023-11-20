@@ -1,0 +1,4 @@
+{
+    "//": "Choose to use virtual(true) or real(false) time",
+    "use_virtual_time": true
+}

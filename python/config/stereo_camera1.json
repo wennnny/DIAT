@@ -1,0 +1,7 @@
+{
+    "controllerType": "VirtualStereoCameraImpl",
+
+    "cameraUpdateTimeStep": 32,
+
+    "deviceName": "range-finder"
+}

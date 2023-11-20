@@ -1,0 +1,17 @@
+{
+    "//": "Choose to connect virtual(SuctionToolVddImpl) or real(RealSuctionTool) devices",
+    "controllerType": "SuctionToolVddImpl",
+
+    "suctionUpdateTimeStep": 1,
+
+    "//": "The delay time of simulating real suction device ( s )",
+    "delay": 0.05,
+
+    "deviceName": "{4F717794-33A1-44A9-8642-FF7CDB6FD607}##Connector_Device",
+
+    "//": "modbus setting",
+    "ip":             "192.168.10.5",
+    "port":           "502",
+    "id":             "1",
+    "address":        "0"
+}
